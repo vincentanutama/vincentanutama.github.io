@@ -1,7 +1,5 @@
 ### Vincent Tanutama
 
-[cv](files/tanutama_cv.pdf) | [twitter](https://twitter.com/vincentanutama) | [linkedin](https://www.linkedin.com/in/tanutama/) | [teaching]()
-
   &nbsp; 
   
   &nbsp;
@@ -15,6 +13,8 @@ My research fields are organizational and development economics, focusing on the
   &nbsp;
   
 You can contact me at [tanutama at uchicago dot edu]().
+
+[cv](files/tanutama_cv.pdf) | [twitter](https://twitter.com/vincentanutama) | [linkedin](https://www.linkedin.com/in/tanutama/) | [teaching]()
 
   &nbsp; 
   

@@ -14,7 +14,6 @@ I study governments in developing countries. I use insights from organizational 
   
 You can contact me at [tanutama at uchicago dot edu]().
 
-[cv](files/tanutama_cv.pdf) | [twitter](https://twitter.com/vincentanutama) | [linkedin](https://www.linkedin.com/in/tanutama/) | [teaching]()
 
   &nbsp; 
   
@@ -22,23 +21,23 @@ You can contact me at [tanutama at uchicago dot edu]().
 
 # Research
 
-The vertical cost of decentralization: Evidence from Indonesia's natural resources
+The vertical cost of decentralization
 
 ###### How does the vertical organization of bureaucracies affect corruption and rent-sharing?
 
   &nbsp;
   
-Corruption: Protection markets and social networks
+Corruption and the market for relationships
 
 (with [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com) and [Kristof Titeca](https://www.uantwerpen.be/en/staff/kristof-titeca/)
 
-###### How is corruption sustained?
+###### How do relationships and markets sustain corruption?
 
   &nbsp; 
 
 Climatic constraints on aggregate economic output (with [Marshall Burke](https://web.stanford.edu/~mburke/)) _[[Working paper](files/BurkeTanutama2019climatic.pdf)]_
 
-###### What does the subnational temperature response function imply for the aggregate and distributional impacts of warming?
+###### What do subnational temperature responses imply for the aggregate and distributional impacts of warming?
 
   &nbsp; 
 

@@ -1,6 +1,6 @@
 ### Vincent Tanutama
-
-  &nbsp; 
+  
+  &nbsp;
   
   &nbsp;
 
@@ -14,41 +14,8 @@ I study governments in developing countries. I use insights from organizational 
   
 You can contact me at [tanutama at uchicago dot edu]().
 
-
-  &nbsp; 
-  
-  &nbsp; 
-
-# Research
-
-The vertical cost of decentralization
-
-###### How does the vertical organization of bureaucracies affect corruption and rent-sharing?
-
   &nbsp;
   
-Corruption and the market for relationships
-
-(with [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com) and [Kristof Titeca](https://www.uantwerpen.be/en/staff/kristof-titeca/)
-
-###### How do relationships and markets sustain corruption?
-
-  &nbsp; 
-
-Climatic constraints on aggregate economic output (with [Marshall Burke](https://web.stanford.edu/~mburke/)) _[[Working paper](files/BurkeTanutama2019climatic.pdf)]_
-
-###### What do subnational temperature responses imply for the aggregate and distributional impacts of warming?
-
-  &nbsp; 
-
-Environmental constraints on elite worker productivity: Evidence from professional tennis 
-
-(with [Marshall Burke](https://web.stanford.edu/~mburke/), [Sam Heft-Neal](http://stanford.edu/~samhn/), [David Lobell](https://lobell-lab.stanford.edu/), and [Miyuki Hino](https://www.miyukihino.com/))
-
-###### How does climate change hurt the productivity of highly-skilled workers?
-
-  &nbsp; 
+[Research](research.html) | [Teaching](teaching.html) | [CV](files/tanutama_cv.pdf)
   
   &nbsp;
-
-

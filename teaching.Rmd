@@ -17,19 +17,23 @@ _Taught by Professors [James Robinson](https://voices.uchicago.edu/jamesrobinson
   
   &nbsp; 
 
-1. TA Session 1: [Course Introduction](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA01.pdf)
+- TA Session 1: [Course Introduction](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA01.pdf)
 
-2. TA Session 2: [Micro-Founding Agency](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA02.pdf)
+- TA Session 2: [Micro-Founding Agency](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA02.pdf)
 
-3. TA Session 3: [Socialized Economies](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA03.pdf)
+- TA Session 3: [Socialized Economies](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA03.pdf)
 
-4. TA Session 4: [A Gendered Perspective](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA04.pdf)
+- TA Session 4: [A Gendered Perspective](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA04.pdf)
 
-5. TA Session 5: [Wealth in People](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA05.pdf)
+- TA Session 5: [Wealth in People](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA05.pdf)
 
-6. TA Session 6: [The State](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA06.pdf)
+- TA Session 6: [The State](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA06.pdf)
 
-7. TA Session 7: State and Society
+- TA Session 7: [State and Society](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA07.pdf)
+
+- TA Session 8: [Conflict and Participation](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA08.pdf)
+
+- TA Session 9: [Review Session]()
 
   &nbsp; 
 

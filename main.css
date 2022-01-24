@@ -273,7 +273,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 0 0;
+		margin: 0 0 0 22px;
 		line-height: 24px;
 		
 	}
@@ -284,7 +284,7 @@ input, select, textarea {
 		font-weight: 800;
 		letter-spacing: 0.12em;
 		line-height: 1.65;
-		margin: 0 0 1em 0;
+		margin: 0 0 0 0;
 		text-transform: uppercase;
 	}
 
@@ -307,7 +307,7 @@ input, select, textarea {
 
 	h5 {
 	     font-family: "Source Serif Pro", Helvetica, sans-serif;
-		margin: 0 0 0 0;
+		margin: 0 0 0 22px;
 		line-height: 24px;
 		font-size: 0.8em;
 		font-weight: 400;
@@ -318,10 +318,9 @@ input, select, textarea {
 	}
 
 	h6 {
-		margin: 0 0 0 0;
+		margin: 0 0 0 22px;
 		line-height: 24px;
 		color: #b17d7d;
-		
 	}
 
 	sub {

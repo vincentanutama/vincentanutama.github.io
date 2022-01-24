@@ -1,12 +1,14 @@
-### Vincent Tanutama
-  
-![](files/waerebo.jpg?display=inline-block)
-  
-  &nbsp;
-  
   &nbsp;
 
-I am a PhD student in Public Policy at [The University of Chicago](https://harris.uchicago.edu). 
+  &nbsp;
+
+![](files/tanutama_headshot.jpg?display=inline-block){width=30%}
+  
+  &nbsp;
+  
+  &nbsp;
+  
+I am a PhD student in Public Policy at The University of Chicago.
 
   &nbsp;
 <!---
@@ -18,9 +20,3 @@ I study the roles of social and economic organizations in the governance of deve
   &nbsp;
   
 You can contact me at [tanutama at uchicago dot edu]().
-
-  &nbsp;
-  
-[Research](research.html) | [Teaching](teaching.html) | [CV](files/tanutama_cv.pdf)
-  
-  &nbsp;

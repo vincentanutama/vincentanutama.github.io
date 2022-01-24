@@ -111,6 +111,93 @@ summary {
 </style>
 
 
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 66px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h2 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h3 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h4 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h5 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h6 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
 
 <!-- tabsets -->
 
@@ -184,6 +271,35 @@ summary {
 
 
 
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">VINCENT TANUTAMA</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="research.html">research</a>
+</li>
+<li>
+  <a href="teaching.html">teaching</a>
+</li>
+<li>
+  <a href="files/tanutama_cv.pdf">cv</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
 <div class="fluid-row" id="header">
 
 
@@ -192,26 +308,30 @@ summary {
 </div>
 
 
-<div id="research" class="section level3">
-<h3><a href="index.html">Research</a></h3>
 <p> </p>
 <p> </p>
-</div>
+<p> </p>
 <div id="working-papers" class="section level1">
 <h1>Working Papers</h1>
 <p><strong>Predation, Protection, and the Efficiency of Illegal Markets</strong></p>
 <p>(with <a href="https://marakujakivuresearch.com">Aimable Amani Lameke</a>, <a href="https://marakujakivuresearch.com">Albert Jolino Malukisa</a>, <a href="https://raulsanchezdelasierra.com">Raúl Sánchez de la Sierra</a>, and <a href="https://www.uantwerpen.be/en/staff/kristof-titeca/">Kristof Titeca</a>)</p>
-<div id="how-are-transactions-governed-in-the-shadow-of-the-law" class="section level6">
-<h6>How are transactions governed in the shadow of the law?</h6>
+<details>
+<summary>Abstract</summary>
+<h5>
+<i> A fundamental economic transaction in the markets for illegal goods and services concerns private agents paying state officials in exchange for bending the rules (bribes). This paper designs a randomized controlled trial in the illegal transportation of passengers in Kinshasa, Democratic Republic of the Congo, in order to test two propositions about what governs this transaction. First, third-parties with power over the state officials asking bribes (such as high-ranked officers) have an incentive to sell their “protection” to private agents against paying these bribes. The spread of third-party protection can reduce bribes, thus increase profits from the illegal activity. Second, transaction costs associated to bargaining over bribes can destroy the surplus from illegal activity available to both parties. Repeated interaction with the state officials who bargain for those bribes can undo these transaction costs. While third-party protection and repeated interaction drastically reduce payments to the police, repeated interaction decreases time wasted bargaining, increasing the daily revenue from driving. This results in an increase in daily profits of nine times the daily per capita income. Our results suggest that repeated interaction with state officials can explain the spread of illegal markets. </i>
+</h5>
+</details>
 <p> </p>
 <p><a href="files/BurkeTanutama2019climatic.pdf"><strong>Climatic Constraints on Aggregate Economic Output</strong></a></p>
 <p>(with <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>)</p>
-</div>
-<div id="what-does-subnational-evidence-say-about-the-aggregate-and-distributional-impacts-of-warming" class="section level6">
-<h6>What does subnational evidence say about the aggregate and distributional impacts of warming?</h6>
+<details>
+<summary>Abstract</summary>
+<h5>
+<i> Efficient responses to climate change require accurate estimates of both aggregate damages and where and to whom they occur. While specific case studies and simulations have suggested that climate change disproportionately affects the poor, large-scale direct evidence of the magnitude and origins of this disparity is lacking. Similarly, evidence on aggregate damages, which is a central input into the evaluation of mitigation policy, often relies on country-level data whose accuracy has been questioned. Here we assemble longitudinal data on economic output from over 11,000 districts across 37 countries, including previously non-digitized sources in multiple languages, to assess both the aggregate and distributional impacts of warming temperatures. We find that local-level growth in aggregate output responds non-linearly to temperature across all regions, with output peaking at cooler temperatures (&lt;10ºC) than estimated in earlier country analyses and declining steeply thereafter. Long difference estimates of the impact of longer-term (decadal) trends in temperature on income are larger than estimates from an annual panel model, providing additional evidence for growth effects. Impacts of a given temperature exposure do not vary meaningfully between rich and poor regions, but exposure to damaging temperatures is much more common in poor regions. These results indicate that additional warming will exacerbate inequality, particularly across countries, and that economic development alone will be unlikely to reduce damages, as commonly hypothesized. We estimate that since 2000, warming has already cost both the US and the EU at least $4 trillion in lost output, and tropical countries are &gt;5% poorer than they would have been without this warming. </i>
+</h5>
+</details>
 <p> </p>
 <p> </p>
-</div>
 </div>
 <div id="work-in-progress" class="section level1">
 <h1>Work in Progress</h1>

@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Nunito:400,700|Raleway:400,800,900");
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,700|Raleway:400,800,900,1000,1200|Source Serif Pro:400,800,900");
 
 /*
 	Future Imperfect by HTML5 UP
@@ -71,6 +71,78 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+
+
+          /*----------------NAVBAR ---------------*/
+          .navbar-default {
+              background-color: #cececece;
+              border-bottom: transparent;
+              z-index:10;
+              font-family: "Raleway", Helvetica, sans-serif;
+              font-color: #800000;
+              letter-spacing: 0.04em;
+		    font-size: 15pt;
+		    font-weight: 600;
+		    line-height: 1.75;
+            
+          }
+          
+          .navbar a:hover {
+               background-color: #000;
+          }
+          
+          .navbar-brand {
+               color:#800000!important;
+               font-variant: small-caps;
+               font-family: "Raleway", Helvetica, sans-serif;
+               letter-spacing: 0.06em;
+		    font-size: 18pt;
+		    font-weight: 900;
+		    border-bottom: none;
+		    
+          }
+          
+          .navbar ul {
+               text-align:center;
+          }
+          
+          #navbar ul li {
+               color: #800000;
+               font-variant: small-caps;
+               letter-spacing: 0.03em;
+		    font-size: 19pt;
+		    font-weight: 800;
+		    
+          }
+          
+          #navbar a {
+              
+              -moz-transition: color 0.2s ease, border-bottom-color 0.2s ease;
+		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
+		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
+		transition: color 0.2s ease, border-bottom-color 0.2s ease;
+		color: rgba(0.5, 0, 0, 0.4);
+		text-decoration: none;
+		
+               font-variant: small-caps;
+               letter-spacing: 0.03em;
+		    font-size: 19pt;
+		    font-weight: 800;
+		    
+          }
+          
+          .navbar-default .dropdown-menu {
+               background-color: #cecece;
+               }
+
+          /* Dropdown menu hover color */
+          .navbar-default .dropdown-menu>li>a:hover {
+               background-color: #cecece;
+               }
+
+          
+          
+
 
 /* Basic */
 
@@ -168,8 +240,8 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px rgba(0, 93, 12, 0.3);
-		color: inherit;
+		color: rgba(0.5, 0, 0, 0.4);
+		border-bottom: thin dotted #abababee;
 		text-decoration: none;
 	}
 
@@ -182,12 +254,14 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #005D70 !important;
+			color: #800000 !important;
 		}
 
 			a:hover:before {
-				color: #005D70 !important;
+				color: #800000 !important;
 			}
+			
+			/* #005D70 */
 
 	strong, b {
 		color: #3c3b3b;
@@ -232,13 +306,21 @@ input, select, textarea {
 	}
 
 	h5 {
-		font-size: 0.7em;
+	     font-family: "Source Serif Pro", Helvetica, sans-serif;
+		margin: 0 0 0 0;
+		line-height: 24px;
+		font-size: 0.8em;
+		font-weight: 400;
+		letter-spacing: 0em;
+		line-height: 1.25;
+		color: #b17d7d;
+		text-transform: none;
 	}
 
 	h6 {
 		margin: 0 0 0 0;
 		line-height: 24px;
-		color: #52686d;
+		color: #b17d7d;
 		
 	}
 
@@ -306,7 +388,6 @@ input, select, textarea {
 		text-align: right;
 	}
 	
-
 /* Row */
 
 	.row {
@@ -2257,6 +2338,9 @@ input, select, textarea {
 		.icon.suffix:before {
 			float: right;
 		}
+		
+	
+
 
 /* Image */
 
@@ -3393,7 +3477,7 @@ input, select, textarea {
 			}
 
 		}
-
+		
 /* Intro */
 
 	#intro .logo {

@@ -1,5 +1,5 @@
 title: "Vincent Tanutama"
-name: "Vincent Tanutama"
+name: "vincent-tanutama"
 output_dir: "."
 page-col: "#FFFFFF"
 link-col: "#005D70"
@@ -7,6 +7,16 @@ hover-col: "#0060B2"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+navbar:
+  title: "VINCENT TANUTAMA"
+  type: default
+  right:
+    - text: "research"
+      href: research.html
+    - text: "teaching"
+      href: teaching.html
+    - text: "cv"
+      href: files/tanutama_cv.pdf
 output:
   html_document:
     theme: readable

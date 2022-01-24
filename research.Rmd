@@ -1,26 +1,32 @@
-### [Research](index.html)
+  &nbsp;
 
-  &nbsp; 
+  &nbsp;
 
-  &nbsp; 
+  &nbsp;
 
 
 # Working Papers
 
-**Predation, Protection, and the Efficiency of Illegal Markets**
+  **Predation, Protection, and the Efficiency of Illegal Markets**
 
-(with [Aimable Amani Lameke](https://marakujakivuresearch.com), [Albert Jolino Malukisa](https://marakujakivuresearch.com), [Raúl Sánchez de la Sierra](https://raulsanchezdelasierra.com), and [Kristof Titeca](https://www.uantwerpen.be/en/staff/kristof-titeca/))
-
-###### How are transactions governed in the shadow of the law?
-
+  (with [Aimable Amani Lameke](https://marakujakivuresearch.com), [Albert Jolino Malukisa](https://marakujakivuresearch.com), [Raúl Sánchez de la Sierra](https://raulsanchezdelasierra.com), and [Kristof Titeca](https://www.uantwerpen.be/en/staff/kristof-titeca/))
+  
+  <details>
+  <summary>Abstract</summary>
+  <h5><i>  A fundamental economic transaction in the markets for illegal goods and services concerns private agents paying state officials in exchange for bending the rules (bribes). This paper designs a randomized controlled trial in the illegal transportation of passengers in Kinshasa, Democratic Republic of the Congo, in order to test two propositions about what governs this transaction. First, third-parties with power over the state officials asking bribes (such as high-ranked officers) have an incentive to sell their “protection” to private agents against paying these bribes. The spread of third-party protection can reduce bribes, thus increase profits from the illegal activity. Second, transaction costs associated to bargaining over bribes can destroy the surplus from illegal activity available to both parties. Repeated interaction with the state officials who bargain for those bribes can undo these transaction costs. While third-party protection and repeated interaction drastically reduce payments to the police, repeated interaction decreases time wasted bargaining, increasing the daily revenue from driving. This results in an increase in daily profits of nine times the daily per capita income. Our results suggest that repeated interaction with state officials can explain the spread of illegal markets. </i></h5>
+  </details>
+  
   &nbsp; 
   
-[**Climatic Constraints on Aggregate Economic Output**](files/BurkeTanutama2019climatic.pdf)
+  [**Climatic Constraints on Aggregate Economic Output**](files/BurkeTanutama2019climatic.pdf)
 
-(with [Marshall Burke](https://web.stanford.edu/~mburke/))
-
-###### What does subnational evidence say about the aggregate and distributional impacts of warming?
-
+  (with [Marshall Burke](https://web.stanford.edu/~mburke/))
+  
+  <details>
+  <summary>Abstract</summary>
+  <h5><i> Efficient responses to climate change require accurate estimates of both aggregate damages and where and to whom they occur. While specific case studies and simulations have suggested that climate change disproportionately affects the poor, large-scale direct evidence of the magnitude and origins of this disparity is lacking. Similarly, evidence on aggregate damages, which is a central input into the evaluation of mitigation policy, often relies on country-level data whose accuracy has been questioned. Here we assemble longitudinal data on economic output from over 11,000 districts across 37 countries, including previously non-digitized sources in multiple languages, to assess both the aggregate and distributional impacts of warming temperatures. We find that local-level growth in aggregate output responds non-linearly to temperature across all regions, with output peaking at cooler temperatures (<10ºC) than estimated in earlier country analyses and declining steeply thereafter. Long difference estimates of the impact of longer-term (decadal) trends in temperature on income are larger than estimates from an annual panel model, providing additional evidence for growth effects. Impacts of a given temperature exposure do not vary meaningfully between rich and poor regions, but exposure to damaging temperatures is much more common in poor regions. These results indicate that additional warming will exacerbate inequality, particularly across countries, and that economic development alone will be unlikely to reduce damages, as commonly hypothesized. We estimate that since 2000, warming has already cost both the US and the EU at least $4 trillion in lost output, and tropical countries are >5\% poorer than they would have been without this warming. </i></h5>
+  </details>
+ 
   &nbsp; 
 
   &nbsp; 

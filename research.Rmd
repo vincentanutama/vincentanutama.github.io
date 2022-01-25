@@ -20,7 +20,7 @@
   
   &nbsp; 
   
-  [**Climatic Constraints on Aggregate Economic Output**](files/BurkeTanutama2019climatic.pdf)
+  ###### [**Climatic Constraints on Aggregate Economic Output**](files/BurkeTanutama2019climatic.pdf)
 
   (with [Marshall Burke](https://web.stanford.edu/~mburke/))
   

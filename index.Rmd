@@ -1,8 +1,18 @@
-  &nbsp;
+```{r include = F}
+
+  htmltools::tags$video(
+            src = "files/booth.mp4", 
+            width = "100%",
+            frameborder="0",
+            allow="fullscreen"
+        )
+```
 
   &nbsp;
 
-![](files/tanutama_headshot.jpg?display=inline-block){width=30%}
+  &nbsp;
+
+![](files/tanutama_headshot2.jpg?display=inline-block){width=35%}
   
   &nbsp;
   
@@ -19,4 +29,7 @@ I study the roles of social and economic organizations in the governance of deve
 
   &nbsp;
   
-You can contact me at [tanutama at uchicago dot edu]().
+You can contact me at [tanutama@uchicago.edu](mailto:tanutama@uchicago.edu).
+
+
+&nbsp;

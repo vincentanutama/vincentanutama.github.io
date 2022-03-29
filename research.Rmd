@@ -9,18 +9,14 @@
 
   &nbsp;
 
-  **Predation, Protection, and the Efficiency of Illegal Markets**
+  [**Predation, Protection, and the Efficiency of Illegal Markets**]()
   
   (with [Aimable Amani Lameke](https://marakujakivuresearch.com), [Albert Jolino Malukisa](https://marakujakivuresearch.com), [Raúl Sánchez de la Sierra](https://raulsanchezdelasierra.com), and [Kristof Titeca](https://www.uantwerpen.be/en/staff/kristof-titeca/))
   
-  <details>
-  <summary>Abstract</summary>
-  <h5><i>  A fundamental economic transaction in the markets for illegal goods and services concerns private agents paying state officials in exchange for bending the rules (bribes). This paper designs a randomized controlled trial in the illegal transportation of passengers in Kinshasa, Democratic Republic of the Congo, in order to test two propositions about what governs this transaction. First, third-parties with power over the state officials asking bribes (such as high-ranked officers) have an incentive to sell their “protection” to private agents against paying these bribes. The spread of third-party protection can reduce bribes, thus increase profits from the illegal activity. Second, transaction costs associated to bargaining over bribes can destroy the surplus from illegal activity available to both parties. Repeated interaction with the state officials who bargain for those bribes can undo these transaction costs. While third-party protection and repeated interaction drastically reduce payments to the police, repeated interaction decreases time wasted bargaining, increasing the daily revenue from driving. This results in an increase in daily profits of nine times the daily per capita income. Our results suggest that repeated interaction with state officials can explain the spread of illegal markets. </i></h5>
-  </details>
   
   &nbsp; 
   
-  ###### [**Climatic Constraints on Aggregate Economic Output**](files/BurkeTanutama2019climatic.pdf)
+  [**Climatic Constraints on Aggregate Economic Output**](files/BurkeTanutama2019climatic.pdf)
 
   (with [Marshall Burke](https://web.stanford.edu/~mburke/))
   

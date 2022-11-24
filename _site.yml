@@ -16,8 +16,6 @@ navbar:
       href: research.html
     - text: "teaching"
       href: teaching.html
-    - text: "cv"
-      href: files/tanutama_cv.pdf
 output:
   html_document:
     theme: readable

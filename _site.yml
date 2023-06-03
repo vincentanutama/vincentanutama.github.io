@@ -16,6 +16,8 @@ navbar:
       href: research.html
     - text: "teaching"
       href: teaching.html
+    - text: "blog"
+      href: blog.html
 output:
   html_document:
     theme: readable

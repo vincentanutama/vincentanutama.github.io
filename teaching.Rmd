@@ -5,35 +5,46 @@
   &nbsp; 
 
 
-# TA for PPHA 32736: Economics, Politics, and African Societies
+# The University of Chicago
+
+  &nbsp; 
+
+[**PPHA 32736: Economics, Politics, and African Societies**](https://harris.uchicago.edu/academics/programs-degrees/courses/economics-politics-and-african-societies)
+
+Inter-disciplinary course for all levels, but primarily aimed at PhD in social sciences interested in conducting research in Africa.
+
+Taught by Professors [James A. Robinson](https://voices.uchicago.edu/jamesrobinson/) and [Raúl Sánchez de la Sierra](https://raulsanchezdelasierra.com).
 
   &nbsp;
 
-_Taught by Professors [James A. Robinson](https://voices.uchicago.edu/jamesrobinson/) and [Raúl Sánchez de la Sierra](https://raulsanchezdelasierra.com)_
-
-[(Syllabus)](files/peassyll.pdf) [(Evaluations)](files/peaseval.pdf) 
+[(Syllabus)](files/peassyll.pdf) [(Evaluations)](files/peaseval.pdf) [(Teaching Materials)](https://github.com/vincentanutama/african-development)
 
   &nbsp; 
 
-###### Course for all levels, but primarily aimed at PhD students in all social sciences 
+[**PPHA 44100: Advanced Microeconomics for Policy Analysis I**](https://harris.uchicago.edu/academics/programs-degrees/courses/advanced-microeconomics-policy-analysis-i-phd-level-fall-2022)
+
+First-year PhD / MACRM Microeconomics sequence.
+
+Taught by Professor [Francisco Espinosa](https://www.nber.org/people/francisco_espinosa?page=1&perPage=50).
+
+  &nbsp; 
   
-  &nbsp; 
+[**PBPL 20000: Economics for Public Policy**](http://collegecatalog.uchicago.edu/thecollege/publicpolicystudies/)
 
-- TA Session 1: [Course Introduction](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA01.pdf)
+Introductory economics course for students in the College.
 
-- TA Session 2: [Micro-Founding Agency](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA02.pdf)
-
-- TA Session 3: [Socialized Economies](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA03.pdf)
-
-- TA Session 4: [A Gendered Perspective](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA04.pdf)
-
-- TA Session 5: [Wealth in People](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA05.pdf)
-
-- TA Session 6: [The State](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA06.pdf)
-
-- TA Session 7: [State and Society](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA07.pdf)
-
-- TA Session 8: [Conflict and Participation](https://github.com/vincentanutama/african-development/blob/main/PEAS-TA08.pdf)
+Taught by Professor [Ryan Kellogg](http://kelloggryan.com).
 
   &nbsp; 
+  
+
+# Stanford University
+
+  &nbsp; 
+
+[**ESS 268: Empirical Methods in Sustainable Development**](https://explorecourses.stanford.edu/search?q=ESS+268%3a+Empirical+Methods+in+Sustainable+Development&view=catalog&filter-coursestatus-Active=on&academicYear=20182019)
+
+Data analysis and causal inference course for MS students.
+
+Taught by Professor [Marshall Burke](https://web.stanford.edu/~mburke/).
 

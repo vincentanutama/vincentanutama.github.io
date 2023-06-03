@@ -9,41 +9,56 @@
 
   &nbsp;
 
-  [**Corruption, Embedded in Relationships: Evidence from the Public Transport Sector in the Congo**](files/police2.pdf)
+  [**On The Governance of Corrupt Exchange: How Social Relations in Congo Form to Reduce a Social Cost of Corruption**](files/police2.pdf) (May 2023)
   
-  (with [Raúl Sánchez de la Sierra](https://raulsanchezdelasierra.com), [Kristof Titeca](https://www.uantwerpen.be/en/staff/kristof-titeca/), [Aimable Amani](https://marakujakivuresearch.com), and  [Albert Malukisa](https://marakujakivuresearch.com))
+<!--  Revision requested at _Quarterly Journal of Economics_ -->
   
+  (with [Raúl Sánchez de la Sierra](https://raulsanchezdelasierra.com), [Kristof Titeca](https://kristoftiteca.be), Aimable Lameke, and Albert Malukisa) (NBER Working Paper 31286)
   
   &nbsp; 
   
-  [**Climatic Constraints on Aggregate Economic Output**](files/BurkeTanutama2019climatic.pdf)
+  [**Decentralization in a Weak State**](https://www.theigc.org/sites/default/files/2023-04/Henn%20et%20al%20Working%20paper%20February%202023.pdf) (Feb 2023)
+  
+<!--    Revision requested at _World Development_ -->
 
-  (with [Marshall Burke](https://web.stanford.edu/~mburke/))
+(with [Soeren Henn](http://soerenhenn.com), Aimable Lameke, and Christian Mugaruka) (IGC Working Paper)
+  
+  &nbsp; 
+
+  [**Game, Sweat, Match: Temperature and Elite Worker Productivity**](files/tennis.pdf) (Aug 2019)
+
+<!--    Revision requested at _Nature Climate Change_ -->
+
+(with [Marshall Burke](https://web.stanford.edu/~mburke/), [Sam Heft-Neal](http://stanford.edu/~samhn/), [Miyuki Hino](https://www.miyukihino.com/), and [David Lobell](https://lobell-lab.stanford.edu/))
+
+  &nbsp; 
+  
+  [**Climatic Constraints on Aggregate Economic Output**](files/BurkeTanutama2019climatic.pdf) (May 2019)
+  
+<!--  Revision requested at _American Economic Review: Insights_ -->
+
+  (with [Marshall Burke](https://web.stanford.edu/~mburke/)) (NBER Working Paper 25779)
  
   &nbsp; 
-
-  &nbsp; 
-
+  
 
 # Selected Work in Progress
 
   &nbsp;
 
-
 ###### The Political Economy of Decentralization in Developing Countries
 
   &nbsp; 
-
   
-###### Comparing Development, Public Good Provision, and Capacity of Traditional and State Institutions: Causal Evidence from the DRC
+###### State-Building at the Intensive Margin
 
-(with [Soeren Henn](http://soerenhenn.com), [Aimable Amani](https://marakujakivuresearch.com), and [Christian Mastaki](https://marakujakivuresearch.com))
+(with [Soeren Henn](http://soerenhenn.com), Aimable Lameke, and Christian Mugaruka)
 
   &nbsp; 
   
+###### Capacity Constrained Fiscal Federalism: Evidence from the World's Most Decentralized Intergovernmental Transfer to 75,000 Indonesian Villages
 
-###### Environmental Constraints on Elite Worker Productivity: Evidence from Professional Tennis 
-
-(with [Marshall Burke](https://web.stanford.edu/~mburke/), [Sam Heft-Neal](http://stanford.edu/~samhn/), [David Lobell](https://lobell-lab.stanford.edu/), and [Miyuki Hino](https://www.miyukihino.com/))
+(with [Raúl Duarte](https://scholar.harvard.edu/rduarte/home#))
 
   &nbsp; 
+  

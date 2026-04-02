@@ -1,11 +1,15 @@
 
   &nbsp;
-
-  &nbsp;
   
-  &nbsp;
+# Contact Information
 
-![](files/tanutama_headshot2.jpg?display=inline-block){width=25%} ![](files/waerebo.jpg?display=inline-block){width=74%} ![](files/istana.jpeg?display=inline-block){width=51%} ![](files/tracasserie.jpg?display=inline-block){width=48%} 
+University of Bonn, Department of Economics
+
+Adenauerallee 24 - 42, 53113 Bonn, Germany
+    
+[tanutama@uni-bonn.de](mailto:tanutama@uni-bonn.de)
+
+  &nbsp;
   
   &nbsp;
   
@@ -13,10 +17,73 @@
 I use insights from organizational economics, political economy, and public finance to examine the consequences of administrative, political, and fiscal decentralization for corruption and bureaucratic efficiency. Using field and natural experiments, my research aims to address the overarching question of how governments are organized to 
 -->
 
+# Publications
+
   &nbsp;
 
-I am a political economist (in training) who studies the institutional design of developing country governments. My fields of research are **development**, **political economy**, and **organizational economics**. Specific areas of focus include decentralization, fiscal federalism, corruption, and state-building in massive resource-rich developing economies, such as Indonesia and the Democratic Republic of the Congo. I can be contacted at tanutama at uchicago dot edu.
+[**Urbanization and decentralization in the Congo: Examining governance in rural towns**](files/drc-urbanization.pdf)
 
-   &nbsp;
+(with [Soeren Henn](http://soerenhenn.com), Aimable Lameke, and Christian Mugaruka)
+
+ _World Development_: 199 (2026) 107219
+
+  &nbsp;
   
-   &nbsp;
+  &nbsp;
+  
+# Working Papers
+
+  &nbsp;
+
+  [**The Social Fabric of Corruption: A Field Experiment in Congo’s Public Transport**](https://www.dropbox.com/scl/fi/nwgn9rxju8sk1wlau8khp/Social-Fabric-of-Corruption.pdf)
+
+(with Aimable Lameke, Albert Malukisa, [Raúl Sánchez de la Sierra](https://raulsanchezdelasierra.com), and [Kristof Titeca](https://kristoftiteca.be))
+  
+Revision requested at _Journal of Public Economics_
+
+<!-- [(NBER Working Paper 31286)](https://www.nber.org/system/files/working_papers/w31286/w31286.pdf) -->
+  
+  &nbsp; 
+
+  [**Game, Sweat, Match: Temperature and Elite Worker Productivity**](files/tennis.pdf)
+
+(with [Marshall Burke](https://web.stanford.edu/~mburke/), [Sam Heft-Neal](http://stanford.edu/~samhn/), [Miyuki Hino](https://www.miyukihino.com/), and [David Lobell](https://lobell-lab.stanford.edu/))
+
+  Revision requested at _Nature Communications_
+
+  &nbsp; 
+  
+  [**State Expansion and Social Responses in the Democratic Republic of the Congo**](https://soerenhenn/files/Henn_StateExpansion.pdf) 
+  
+  (with [Soeren Henn](http://soerenhenn.com))
+  
+  &nbsp; 
+  
+  [**Climatic Constraints on Aggregate Economic Output**](files/BurkeTanutama2019climatic.pdf) 
+  
+  (with [Marshall Burke](https://web.stanford.edu/~mburke/)) 
+  
+<!--  [(NBER Working Paper 25779)](https://www.nber.org/system/files/working_papers/w25779/w25779.pdf) -->
+  
+  &nbsp; 
+  
+
+# Selected Work in Progress
+
+  &nbsp;
+
+###### The Organization of Economic Rents among Political Elites
+
+  &nbsp; 
+  
+###### The Effects of Political Competition on Candidate Selection
+
+  &nbsp; 
+  
+###### Capacity Constrained Fiscal Federalism: Evidence from the World’s Most Decentralized Intergovernmental Transfer to 75,000 Indonesian Villages (with [Raúl Duarte](https://scholar.harvard.edu/rduarte/home#))
+
+  &nbsp; 
+  
+###### The Electoral Consequences of Decentralization Reform in the DRC (with [Soeren Henn](http://soerenhenn.com) and [Gildfred Asiamah](https://iss.wisc.edu/staff/boateng-asiamah-gildfred/))
+
+  &nbsp; 
